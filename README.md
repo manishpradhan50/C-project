@@ -1,2 +1,2 @@
 # C-project
-author-Manish Pradhan
+author-Manish pragnya
